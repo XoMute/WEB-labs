@@ -1,2 +1,2 @@
 # Calculator
-![](example.gif)
+![](example.mp4)
